@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋, I am Bamidele Oluwatobi
+
+I am a software developer from Nigeria 🇳🇬, I basically write Javascript for now, but that could change any moment as I am looking forward to learning other programming languages.
+
+- I build frontend applications using ReactJS and Backend using NodeJs.
+
+- I am currently in love with Bitcoin and Lightning,learning and building applications that help users use Bitcoin/Lightning effectively.
+
+- [Also write about Bitcoin here, check it out](https://medium.com/@teebams49)
 
 <!--
 **tobi-bams/tobi-bams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
