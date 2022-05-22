@@ -4,7 +4,7 @@ I am a software developer from Nigeria 🇳🇬, I basically write Javascript fo
 
 - I build frontend applications using ReactJS and Backend using NodeJs.
 
-- I am currently in love with Bitcoin and Lightning,learning and building applications that help users use Bitcoin/Lightning effectively.
+- I am currently in love with Bitcoin and Lightning, learning about Bitcoin/Lightning and also building applications that help users use Bitcoin/Lightning effectively.
 
 - [Also write about Bitcoin here, check it out](https://medium.com/@teebams49)
 
